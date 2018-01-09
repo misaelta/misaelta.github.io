@@ -12,14 +12,22 @@ a {
 }
 
 a:hover {
-  color: #993131;
+  color: blue;
+}
+li{
+width:100px;
+border:solid;
+background:#FF5252;
 }
 
 p {
   color: white;
 }
 li {
-  color:white;
+  color:black;
+}
+li:hover{
+color:white;
 }
 div {
   font-family: 'Raleway', sans-serif;
@@ -30,7 +38,10 @@ div {
 .presentation {
 }
 
-.skills {}
+.skills {
+
+
+}
 
 .contact-info {
 
