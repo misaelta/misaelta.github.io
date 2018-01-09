@@ -12,22 +12,18 @@ a {
 }
 
 a:hover {
-  color: blue;
+  color: black;
 }
-li{
-width:100px;
-border:solid;
-background:#FF5252;
-}
+
 
 p {
   color: white;
 }
 li {
-  color:black;
+  color:white;
 }
 li:hover{
-color:white;
+color:black;
 }
 div {
   font-family: 'Raleway', sans-serif;
@@ -46,7 +42,6 @@ div {
 .contact-info {
 
   background-color:#373737;
-  
-  
-}
 
+
+}
